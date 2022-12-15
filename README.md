@@ -6,7 +6,7 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-## models
+## Models
 
 - VGG 19
 
